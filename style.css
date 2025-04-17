@@ -43,5 +43,8 @@ button {
     background-color: gray;
     color: white;
     position: absolute;
+<<<<<<< HEAD
     cursor: pointer;
+=======
+>>>>>>> fe0a58fa571e0f9d2d8d8f4317c326550af84492
 }
